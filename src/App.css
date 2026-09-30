@@ -1,0 +1,4 @@
+/* Reset Vite defaults */
+#root {
+  min-height: 100vh;
+}
